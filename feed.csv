@@ -1,0 +1,708 @@
+name,desc,timestamp,content,reaction_count,comments_count,repost_count,Media Type,Media Link,Media Count,converted_date
+Shruti Mishra,Join me to Learn how to Supercharge your daily Life with AI | 150k+ on Twitter/X (@heyshrutimishra),"4d • 
+ ","Forget ChatGPT for a day...
+
+
+This AI lets you talk to the greatest minds of all time.
+
+Einstein, Elon Musk, Warren Buffett, Aristotle, Newton...
+
+You ask. They answer, reflecting their actual philosophies, ideas, and mental models.
+
+This honestly shouldn’t be possible 👇
+
+1. Go to
+Browse a library of AI agents modeled after iconic thinkers.
+You can even message them like this:
+[@]Einstein What’s your take on AGI?
+
+It’s surprisingly insightful and kind of addictive.
+
+2. My conversation with Warren Buffett
+I asked: “How do you stay calm during a market crash?”
+
+His reply:
+
+“Market crashes are just Mr. Market throwing tantrums. I don’t join the panic I join the sale instead.
+
+Be fearful when others are greedy. Greedy when others are fearful.""
+
+3. What Elon Musk told me about school
+I asked: “What’s one thing schools should teach but don’t?”
+
+“Schools teach what to think not how to think.
+We need first-principles reasoning, not memorization.”
+
+4. Bill Gates on learning faster
+His approach is a masterclass in itself:
+✔️ Set clear goals
+✔️ Break down topics
+✔️ Use multiple sources
+✔️ Teach it back
+✔️ Apply immediately
+✔️ Stay patient
+
+5. Final thought
+This tool is more than just fun and it’s useful.
+Ask hard questions, explore deep topics, and get answers grounded in world-class thinking.
+
+🧠 Try it:
+
+♻️ Share this post with someone who loves learning through conversation.
+Subscribe for more:
+
+💡 Follow Shruti Mishra for weekly AI tools that 10x your workflow.",315,34 comments,11 reposts,video,['https://dms.licdn.com/playlist/vid/v2/D5605AQE3qGUHM_OZPw/mp4-720p-30fp-crf28/B56ZfuoQu2IAB4-/0/1752055231506?e=1753012800&v=beta&t=wT3OaMVrEBSiOU5LfA5_h0qKzHacU9lzeuiFHY5KlRs'],1,2025-07-09
+Mridul Ahi,"QR @ Atlas Research | 2x ICPC World Finalist (2024, 2025) | Grandmaster, ex AIR 1 on Codeforces","1d • 
+ ",I’m happy to share that I’m starting a new position as Quantitative Researcher at Atlas Research!,517,40 comments,0,text,[],0,2025-07-12
+Hritik Agrawal,Software Engineer @RoboMQ • Leetcode Top 1% in PS • 700+ Leetcode • Backend Development • Microservices • APIs • Spring Boot • AI/Integration,"2h • Edited • 
+ ","🚀 Weekly Contest Highlight: 
+𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝟑𝟔𝟏𝟑: 𝐌𝐢𝐧𝐢𝐦𝐢𝐳𝐞 𝐌𝐚𝐱𝐢𝐦𝐮𝐦 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭 𝐂𝐨𝐬𝐭
+
+Today’s problem revolved around graph partitioning:
+Given a connected undirected graph, the task was to remove edges to form at most k connected components such that the maximum edge cost in any component is minimized.
+
+Most standard approaches hint toward binary search over edge weights, but I took a different route — using Minimum Spanning Tree (MST) + Greedy Edge Removal.
+
+🧠 Approach:
+
+-Build an MST using Kruskal’s algorithm.
+-To create k components, remove the (k-1) largest edges from the MST.
+-The answer is the maximum edge left in the remaining components.
+-If no edges are left (all were removed), return 0.
+
+Here’s a snippet of my solution:
+
+P.S. I know there can still be some little improvements, but just wanted to share the thought process. 😅",7,0,0,image,['https://media.licdn.com/dms/image/v2/D5622AQEPBaihpAJ_6g/feedshare-shrink_800/B56ZgC7EqIHcAg-/0/1752395698086?e=1755129600&v=beta&t=7Sc4vxuQ8cmnF3u1wLWxh6z13VWD-etjmbCCoMnKmqw'],1,2025-07-13
+Vagas Empregos,"4,489,226 followers","3h • 
+ ",Vagas no site: https://lnkd.in/dRJSEFuN,13,0,0,image,['https://media.licdn.com/dms/image/v2/D4D22AQEaD4VyxOMVfg/feedshare-shrink_800/B4DZf_RJNSG8Ag-/0/1752334374639?e=1755129600&v=beta&t=vIJ0z7QYzK5kKVWwMAolmdzr62xnJdTloYhGpRS7ap8'],1,2025-07-13
+Radha Gupta,"SDE @ Microsoft | 60K+ @LinkedIn | Mentored 1000+people | SIH Finalist 2020 | Featured @Times Square NY | Featured on Popular Newspaper | Top 1% LinkedIn | Tech, AI, Marketing and Career Growth | Open for Collaboration","3w • 
+ ","Didn’t get into IIT/NIT? You can still build a great tech career. Here's how to choose the right college:
+
+🔹 1. Consider Top Alternatives via JEE Main
+If not IIT, look into other reputed institutes through JEE Main:
+• NITs with lower cutoffs
+• IIITs (many have strong CS programs)
+• GFTIs (Government Funded Technical Institutes)
+
+🔹 2. Look Beyond JEE – Explore Other Entrance Exams
+Private universities conduct their own exams. Some great options include:
+• BITS Pilani / Goa / Hyderabad – via BITSAT
+• VIT Vellore / Chennai – via VITEEE
+• Manipal (MIT) – via MET
+• SRM, KIIT, Shiv Nadar, Ashoka, Amrita – good CS programs & infra
+
+🔹 3. Don't Obsess Over the College Name – Focus on the Program Quality
+Choose a college that offers:
+• Strong CS/IT/EC programs
+• Good faculty and active tech societies
+• Industry exposure through internships and hackathons
+• Coding culture and alumni network
+
+🔹 4. Explore Top State & Regional Colleges
+Colleges like:
+• COEP (Pune), VJTI (Mumbai), NSUT (Delhi), DTU (Delhi)
+• RVCE, PES, BMSCE (Bangalore)
+• IIEST Shibpur, Jadavpur University (Kolkata)
+offer solid placements and exposure—often at par with NITs.
+
+🔹 5. Use State Entrance Exams to Your Advantage
+Even if JEE didn’t go well, you can try:
+• MHT-CET (Maharashtra)
+• KCET (Karnataka)
+• WBJEE (West Bengal)
+• AP-EAMCET / TS-EAMCET (Andhra Pradesh & Telangana)
+
+🔹 6. Focus on the Long Game: Skill > College Tag
+Your success won’t be decided by your college name alone.
+It will be built by:
+• Projects & internships
+• Leetcode + GitHub + real-world coding
+• Networking and smart career decisions
+
+🔹 7. Optional: Reattempt JEE While Studying
+Many students join a good college, study for a year, and reattempt JEE alongside. If you're determined for IIT/NIT, this is a valid path too.
+
+Bottom Line:
+IIT/NIT is a great start—but it’s not the only path. Choose a college with strong fundamentals, tech culture, and placement support—and back it up with consistent self-learning.
+You don’t need an IIT tag to succeed in tech. You need curiosity,consistency, and courage.
+
+Do Followfor Tech Related Content.",163,12 comments,0,image,['https://media.licdn.com/dms/image/v2/D5622AQEpPCFaTYkqLQ/feedshare-shrink_1280/B56ZeSdrTwHQAk-/0/1750508943265?e=1755129600&v=beta&t=u9Hvq_l5idhUoBdJf-iUwpQrxejtnYdngxfj5yZ14bg'],1,2025-06-22
+Saransh Anand,Cofounder MarkitUp | We are Hiring | Ex Disney+Hotstar | CSE BITS '23 | Content Marketing,"6d • Edited • 
+ ","Do you notice anything common across these three products?
+
+The answer is also the biggest shift Indian consumer goods have seen over the past few years.
+
+None of these brands existed 10 years ago; even if they did, their packaging would be completely different from what it looks like today.
+
+And it is not about the fonts or the colours, but the info shared on the packaging.
+
+Today, brands win trust not by hiding complexity, but by explaining it.
+- Farmley tells you exactly what's inside their snack, no ""energy bar"" jargon, just 6 clear ingredients.
+- Minimalist doesn't just say ""deep clean"", they give you the percentage of actives and the science behind why it works.
+- The Derma Co. lays it out: what it's for, what's inside, and what it doesn't include (""fragrance free"").
+
+This shift is more than just marketing; it reflects a smarter, more involved Indian consumer. One that reads the label, Googles the ingredients, and expects honest communication.
+
+And this is only going to get better. We've entered a phase where people don't just read ingredients, they upload them to ChatGPT and ask:
+
+""Is this good for my skin type?"" or ""Can I eat this daily?""
+
+With so much information at our fingertips, consumers don't just want to know what's inside; they want to know what it'll do and if it's right for them.
+
+Have you seen big FMCG brands pick up this trend too?
+
+Let me know in the comments!",157,17 comments,0,image,['https://media.licdn.com/dms/image/v2/D5622AQG8yKmdD6DoiQ/feedshare-shrink_800/B56Zff.Qw0GQAg-/0/1751809338491?e=1755129600&v=beta&t=4P9zs1_BG1zCS1lsIuHsPlrDUYuC25cXqPt03_5gZuU'],1,2025-07-07
+Sanika jain,SDE-2 @Oracle | Top 1% LinkedIn | SWE Intern'22 @ Google | IITian | Top Marketing Voice | 160k+ @LinkedIn | Codeforces Expert,"20h • 
+ ","“Ladki hona, par ladki dikhna mat.”
+Something I once heard and, unknowingly, started believing.
+
+So I pushed myself to be tougher. Sharper. Less emotional. More efficient.
+Less """"ladki"""", more """"corporate professional.""""
+
+But sometimes… the girl in me wants to come out.
+The one who wants to make reels instead of reading research papers.
+The one who feels underconfident with acne marks and just wants to stay home.
+The one who asks “Can I take a break? Just for me?”
+
+Why not?
+Why should I feel guilty for caring about my skin?
+Why can’t I take a leave for skincare, just like I would for a fever?
+
+Sometimes, I just want to be that Gen-Z girl.
+The one who puts herself and her skin first.
+
+And maybe that’s not weakness.
+Maybe that’s healing.
+
+Because my skin deserves a break too.",81,38 comments,0,video,['blob:https://www.linkedin.com/623943e2-b271-4ecf-b512-377af44f8ec2'],1,2025-07-13
+Shanmukha Priya,SWE@ Google| Google SWE Intern'24| ICPC Algoqueen Finalist'24| GGH semifinalist '24| Google STEP intern '23| WE Scholar '22| IIT Patna CSE '25,"1h • Edited • 
+ ","I’m thrilled to be back at Google, joining as a Software Engineer after receiving a Pre-Placement Offer (PPO) from my SWE internship last summer! ✨
+
+My journey at Google feels incredibly special. I had the wonderful opportunity to start as a STEP intern and later return as a SWE intern. Together, these experiences served as the crucial stepping stones that gave me the confidence and skills to begin my career as an engineer.
+
+What made both my internships unforgettable were my mentors, my teammates, and every Googler who patiently answered my endless questions and shared their wisdom. Their guidance was the bridge that turned my internship experiences into a full-time reality.
+
+Also a huge thank you to my mentors at,and the WE community for their support, inspiration and laying the foundations on how to dive into the corporate waters. I am also grateful to thefor its unwavering assistance. Last but not the least, I owe my parents, friends, and seniors a debt of gratitude for their constant support, and encouragement.
+
+I'm excited to be transitioning from an intern to a full-time role and continue learning from the brilliant minds around me. Here's to growing my skills, helping build technology that truly matters and shaping what’s to come! 🚀✨",119,31 comments,0,image,"['https://media.licdn.com/dms/image/v2/D5622AQGy9XYdxWd1-g/feedshare-shrink_800/B56ZgDG7PZGUAg-/0/1752398804923?e=1755129600&v=beta&t=25AHfYZGK_HuAnORvH-B7LJeC6mr28qAgnQNB-QMCxc', 'https://media.licdn.com/dms/image/v2/D5622AQGtJbyosKKu7w/feedshare-shrink_800/B56ZgDG7PmHUAg-/0/1752398806155?e=1755129600&v=beta&t=-daYw5mL3aUCszoYJIhD7zgCQpmaiYuY0XXjj7GYe-A']",2,2025-07-13
+Abhay Sharma,"I Do CP, ML, and Maths | IITM-BS| Building CFinsights","1w • 
+ ","When your work starts getting praises from the OGs of the field, you know you have done something meaningful.
+Thankyou so much Priyansh Agarwal 
+
+Tagging these folks for reach:
+
+
+
+(Can’t tag big accounts it feels cringe)",684,13 comments,0,image,"['https://media.licdn.com/dms/image/v2/D4E22AQHcfZ_LKRzegw/feedshare-shrink_800/B4EZfacBfdHsAg-/0/1751716492770?e=1755129600&v=beta&t=4TPCR_TMfbX6sgpUYMs9fypGClp3_bFtCNjSuDMcLgw', 'https://media.licdn.com/dms/image/v2/D4E22AQH2zQG8WwfQCA/feedshare-shrink_800/B4EZfacBgJGcAk-/0/1751716493270?e=1755129600&v=beta&t=KZOslyRjm9v3NKx7W9Lp1Dme35elQ8oIsNp866K2ijQ']",2,2025-07-06
+DIT UNIVERSITY,"42,451 followers","6d • 
+ ","Advance your tech journey with the MCA program at DIT University.
+From web development to data science, gain industry-relevant skills with cutting-edge labs, hands-on learning, and top placement opportunities.
+Admissions open for 2025. Apply now:",12,0,0,image,"['https://media.licdn.com/dms/image/v2/D4E22AQGcIQN7Z3eUsQ/feedshare-shrink_800/B4EZfjtv1wG4Ak-/0/1751872121113?e=1755129600&v=beta&t=8aXH_z8cB3vG9hL_Z88BT-a92PsplxiMjq868_erBsw', 'https://media.licdn.com/dms/image/v2/D4E22AQHKm5rFEH0vqg/feedshare-shrink_800/B4EZfjtv1DGcAo-/0/1751872111432?e=1755129600&v=beta&t=XPb1g3BDd7yvKJZk_gke7dNJTlwZtjpUrcCfCcelb5o', 'https://media.licdn.com/dms/image/v2/D4E22AQHwB1YKmTp4Jg/feedshare-shrink_800/B4EZfjtv0rHsAk-/0/1751872111479?e=1755129600&v=beta&t=4uNNT9CfILgEItxplhrxnjInJWAR1QiPqjwxtUHa2FI', 'https://media.licdn.com/dms/image/v2/D4E22AQH9ZDZT3PHuwA/feedshare-shrink_800/B4EZfjtv09HsAg-/0/1751872111682?e=1755129600&v=beta&t=ZhRQYHbXM9Ch4Y0ki8abrkgLais8vYVMH_b3xuef1vI']",4,2025-07-07
+SQL Notes,"116,419 followers","4d • 
+ ","🚫 Traditional deodorants?
+
+ Sticks, sprays, roll-ons — loaded with chemicals, aluminum & skin irritants.
+
+The world changed. But deodorant tech didn’t.
+❌ Sensitive skin suffered
+❌ Chronic body odor ignored
+❌ Eco-conscious living left behind
+So we reimagined everything.
+
+🔥 Introducing PlaDeo — the world’s first chemical-free plasma deodorant device
+✅ Clinically tested
+✅ CES Innovation Award winner
+✅ Published in Nature’s Scientific Reports
+
+PlaDeo kills odor-causing bacteria — no perfumes, no toxins, no waste.
+
+Just pure confidence, for every skin type.
+
+♻️ Reusable. Rechargeable. Revolutionary.
+Say goodbye to irritation and odor —
+And hello to the future of deodorization.
+
+👉 Live now on Indiegogo:
+
+🚀 Support us on Product Hunt:",173,13 comments,6 reposts,video,['blob:https://www.linkedin.com/61cb7f67-b6e6-4483-bc49-f7c7f6cac84a'],1,2025-07-09
+Shanthi Priya Ayodhya,"Head of HR | HR Leadership | Talent Acquisition | End-to-End Employee Lifecycle | HR Compliance (POSH, ISO, SSAE, SOC) | Payroll Management | iGaming | Product | Banking & DSA | Startup HR Excellence | 5K+ Followers","1w • 
+ ","Excited to announce that our IHR WhatsApp group, exclusively for HR professionals, has surpassed 800 members!
+
+Join our vibrant community at IHR on WhatsApp:
+
+Here's the latest update from Indian Human Resources:
+
+- We now feature a comprehensive list of HR job openings tailored for both Freshers and Experienced professionals. With us, you can:
+- Instantly view job listings
+- Apply directly for positions
+- Connect with recruiters and employers
+
+Stay updated by followingon LinkedIn to seize every opportunity that comes your way.
+
+Feel free to share this valuable resource with your HR colleagues and aspiring professionals seeking new career prospects.
+
+Let's foster growth together and support each other's journey to success!",50,7 comments,0,text,[],0,2025-07-06
+OpenUK,"6,030 followers","4d • 
+ ","OpenUK’s 6th Annual Awards will open for nominations later this week. This year’s amazing judges are Liz Rice, Lisa Allen, and Nicolas Vibert. They’ll be joined by our sponsor to select the winners, who will be announced in our awards ceremony this autumn. Truly the Oscars of Open Source!",50,8 comments,24 reposts,image,['https://media.licdn.com/dms/image/v2/D4E22AQHE5fFUQYn-zw/feedshare-shrink_800/B4EZfqVHQgHYAg-/0/1751983094287?e=1755129600&v=beta&t=L2DOu_1eZ836cdzDGZcLFZoitbDOIAPvrUadUf_WSJc'],1,2025-07-09
+Purushottam Jha,"SDE @Amazon | Guardian @Leetcode(2500+ rating,1700+ Q) | Former MTS @Nielsen","7h • 
+ ","𝗦𝗼𝗹𝘃𝗲𝗱 𝟰/𝟰 , 
+Here is quick ideas for today Leetcode's contest:
+
+Problem 1:
+I traverse the string left to right appending letters to a result, removing the last character on '*', duplicating the result on '#', reversing it on '%', and return the final processed string.
+TC = O(N^2)
+
+
+Problem 2 :
+1) Sort the edges by weight
+2) I initialized a DSU with each node as its own parent
+3) I defined a check function that given a threshold T uses the DSU to unite all edges of weight ≤T
+4) then iterate through the sorted edges and perform those unions
+5) count the number of distinct DSU roots to get the component count
+6) compare that count to k
+7) if the count exceeds k raise the lower bound of the binary search
+8) otherwise lower the upper bound; ninth, repeat this binary search until the bounds meet
+10)return the converged threshold as the minimum possible maximum cost.
+TC - O(ELogW )
+
+Problem 3:
+1) I initialized a vector l to store the length of the result after each character in the input string s is processed.
+2) processed each character in s and updated the result length based on whether it was a letter (add 1), '*'' (remove 1), '#' (double), or '%' (no change).
+3) If the final length is less than or equal to k, I immediately returned '.' because the k-th character doesn't exist.
+4) I then used a recursive function b to trace back the k-th character by simulating the effect of each character in reverse.
+5) For '#', I halved the index if it was from the duplicated part; for '%', I mirrored the index around the current result length.
+6) I returned the correct letter when reaching the position where k matches the previous result length or returned '.' if the trace reached the beginning.
+TC - O(N)
+
+Problem 4:
+1) Build an adjacency list a from edges.
+2) initialize a 3D DP array dp[mask][x][y] to false for all masks and node pairs.
+3)For each node i, set dp[1<<i][i][i] = true to represent odd‐length palindromes of length 1.
+4)For each edge (x,y) with label[x] == label[y], set dp[(1<<x)|(1<<y)][x][y] = true and update ans to 2.
+5) set ans = 1 initially and update to 2 if any even-centred pair exists.
+Iterate over all masks m from 1 to (1<<n)-1.
+6)Within each mask, for each pair of nodes (x,y) where bit x and bit y are set and dp[m][x][y] is true, then update ans = max(ans, popcount(m)) to track the longest palindrome found so far.
+7) For each neighbor u of x not in m and each neighbor v of y not in m with label[u] == label[v], set dp[m|(1<<u)|(1<<v)][u][v] = true.
+8) continue expanding all valid (u,v) extensions across all masks to cover every palindromic path possibility.
+9) then after processing all masks, return ans as the maximum palindromic path length.
+TC = O(2^N * N^4)",113,0,0,image,['https://media.licdn.com/dms/image/v2/D5622AQEoI6h_JCAUiA/feedshare-shrink_2048_1536/B56ZgBxBgcGUAo-/0/1752376285700?e=1755129600&v=beta&t=LOFkva-f6I_l_USOnPLagK05WxzESXsxRYJEsXtKJ2k'],1,2025-07-13
+Ishan Sharma,Building MarkitUp | YouTuber with 1.5M+ subs | BITS Goa | Helping Brands Grow on YouTube,"2w • 
+ ","I’m flying to USA again!🇺🇸
+
+For Meta’s latest business event…
+
+Conversations happening in Miami on 1st July.
+
+Businesses use WhatsApp every day to deepen customer interaction and improve engagement.
+
+But the latest features coming to WhatsApp’s Update tab are really interesting:
+
+1. Channel subscriptions: You can support your favorite channel by subscribing to receive exclusive content for a monthly fee.
+
+2. Promoted Channels: You can now discover new channels that might be interesting to you and for the first time, admins can boost their presence and grow their channel.
+
+3. Status Ads: Channels and businesses can now pay to appear in Status to unlock more conversations on WhatsApp about a product or service.
+
+I’m super excited to attend the event in miami to try out these features and see how businesses are using it to market themselves better.
+
+I remember downloading WhatsApp for the first time as a kid in 2014. Today, I’m getting to attend its event in-person.
+
+Grateful to Meta for this opportunity!🙏","1,759",72 comments,0,image,['https://media.licdn.com/dms/image/v2/D5622AQGLbu0fDlIfDg/feedshare-shrink_800/B56Ze3Or8DHUAo-/0/1751125777616?e=1755129600&v=beta&t=c3eXpiCCyQbuasKd8LGcwrtBRLjA9sxKE0Y1WczZRmQ'],1,2025-06-29
+Anmol A.,Software Engineer 2 @Uber | ex- Deshaw | Opinions and views are of my own | Content Creator | 100K+ followers | React | Golang | Fullstack | DM for referrals | NSIT(now NSUT) | Mentor | Singer and Guitarist | Youtuber,"7h • Edited • 
+ ","Gameskraft pays around 20-30 LPA for SDE-1 and 50-60 LPA for SDE-2 😱😱😱
+This is the problem they ask in their interviews
+
+How would you design a realtime scalable gaming dashboard? 🎮📊
+
+The biggest challenge?
+
+➡️ Realtime updates — As soon as a player's score changes, the system should reflect it immediately.
+
+➡️ Low-latency aggregations — Metrics like total score, number of wins, and time played should be fast to query.
+
+➡️ Scalability — The system should handle millions of users without slowing down.
+
+Can we just use a single database?
+Sure — it keeps things simple with a single source of truth.
+BUT reading and writing from the same DB + running aggregations = 🚫 not scalable.
+
+How about Master/Replica setup?
+Say we use DynamoDB as the main DB and its replica for reads.
+Works well for ingestion, but still struggles with aggregations.
+
+✅ The Solution?
+We can leverage Redis for low-latency lookups…
+…but it's not ideal for complex queries. Let me know which one?
+
+Instead, consider Rockset.
+Think of it like a GSI, but optimized for real-time analytics — perfect for joins + aggregations + ingestion.
+
+By separating reads from writes, we essentially follow the CQRS pattern —
+One path for fast ingestion, another for fast querying.
+
+💬 Curious to hear your thoughts —
+Which DB would you choose for realtime analytics?",168,21 comments,0,text,[],0,2025-07-13
+Dhirendra Singh,"Redefining UI with Next.js | Java, C++, DSA Enthusiast | Full Stack Developer | Open to New Opportunities & Collaborations 📩 | Exploring AI-Powered Solutions","4d • 
+ ","🚀 A few years ago, online shopping meant waiting — sometimes days, even weeks — for essentials.
+But life didn’t wait. It sped up.
+
+People began expecting groceries, meals, even medicines to show up at their doorstep in minutes, not days.
+And just like that, traditional e-commerce started to feel... outdated.
+
+We saw it firsthand, running our own delivery business —
+❌ Tech that couldn’t keep pace
+❌ Customer expectations rising overnight
+❌ Operations that felt stuck in slow motion
+
+That’s when quick commerce became more than just a buzzword.
+It became a survival strategy.
+
+🔥 Enter— built from the ground up to empower modern delivery-first brands.
+
+Not just software.
+Hyperzod is a full-stack, white-label delivery ecosystem designed to be:
+✅ Fast to launch
+✅ Effortless to scale
+✅ Fully yours — with branded iOS & Android apps
+
+With Hyperzod, you can launch same-day delivery businesses in minutes for:
+🍔 Food
+🛒 Groceries
+💊 Medicines
+📦 Anything hyperlocal
+
+Whether you're a local store ready to expand or a startup looking to dominate your niche —
+Hyperzod gives you the power, speed, and control to win in this new era of commerce.
+
+👉 Explore more:
+💡 Support us on Product Hunt:",169,32 comments,12 reposts,video,['blob:https://www.linkedin.com/f386eeea-a03e-48e4-b460-4d082b558faf'],1,2025-07-09
+Sachin Jadhav,Associate Director at UBS | UBS Certified Engineer (Gold) | Java Fullstack Lead,"1w • 
+ ",I’m happy to share that I’ve obtained a new certification: UBS Certified Engineer (Gold) from UBS!,222,75 comments,0,text,[],0,2025-07-06
+Md Aadil,Student at LNCT Group of College,"1w • 
+ ","hashtag
+#132DayOfCode 💻 
+
+🚀 From 60 Days to 120 Days of Coding — and now, it's time to level up.
+
+✨A new journey begins: 150 Days of Code.
+
+✨I'm excited to announce the start of my next challenge:
+💻
+
+✨No excuses -just consistency,growth and a relentless pursuit of mastery.
+
+✨Each day is a new opportunity to learn,build and grow as a developer.
+
+Let’s code. Let’s conquer.💻🔥",70,0,0,image,"['https://media.licdn.com/dms/image/v2/D4D22AQFRLA4oU8KbbQ/feedshare-shrink_800/B4DZfMjlFNGsAk-/0/1751483571406?e=1755129600&v=beta&t=zzQRYnDA-aK-8QJaaW-33QHkr07xzx7KmQ3SZByrtow', 'https://media.licdn.com/dms/image/v2/D4D22AQFkXhYgCuEfrg/feedshare-shrink_800/B4DZfMjlEaHMAg-/0/1751483571286?e=1755129600&v=beta&t=1Siw8h77IrV0tRpq3H0GR7T81cPmsdQQ-gzrVmHKJbs', 'https://media.licdn.com/dms/image/v2/D4D22AQERy-y2cekSUg/feedshare-shrink_800/B4DZfMjlFjGsAk-/0/1751483569850?e=1755129600&v=beta&t=YpuF0VIWEm0qiv7unDVDJWTfirCF9-l52lnhyNeFp0o', 'https://media.licdn.com/dms/image/v2/D4D22AQERkW0vHGSmjw/feedshare-shrink_800/B4DZfMjlEMGUAs-/0/1751483569852?e=1755129600&v=beta&t=ibeAnxmXRHmQvxgzG6a-A1B_YE5-Lkr92I6c0V_SHvE']",4,2025-07-06
+Vinod krishna Banda,AI FILM PRODUCER || LEARNING COMFYUI || OPEN TO COLLABORATION,"1w • 
+ ","Yesterday I submitted my first project to showcase in bolt gallery where hackathon projects will be showcased, and guess what they really showcased my project in e-commerce category
+
+Here is the gallery link:if you likedd my project pls like it and also there are other awesome projects once take a look on them.",12,0,0,image,['https://media.licdn.com/dms/image/v2/D4E22AQH6yy5ndLW0uw/feedshare-shrink_800/B4EZfOeB54G4As-/0/1751515669453?e=1755129600&v=beta&t=YPsqEs3PdXot4FQFIvf3oXCMDZ9az7w3A3cl50xCaxo'],1,2025-07-06
+Ishan Sharma,Building MarkitUp | YouTuber with 1.5M+ subs | BITS Goa | Helping Brands Grow on YouTube,"2w • 
+ ","The best decision I have made in my 20s is to MOVE.
+
+Change cities, countries, timezones and it is the easiest life upgrade.
+
+Every time i move out of my home,
+
+My income grows
+My learning grows
+My network expands
+My character evolves
+My confidence on another level
+I just start thinking bigger
+
+What do you think?","1,343",88 comments,5 reposts,video,['blob:https://www.linkedin.com/71808b66-6e76-4f25-ab80-7be8d863dda0'],1,2025-06-29
+Tara Lukose,Software Engineer @Google | STCS VV 2025 | Google SWE intern '24 | Google STEP intern '23 | WE Scholar '22 | Student at Karunya Institute of Technology and Science,"1w • 
+ ","Super thrilled to be joining Google as a Software Engineer this week! 
+
+I was grateful to receive a PPO post my role as a SWE intern in Google Discover for 12 weeks (from May to August) last year (2024), where I worked on determining a suitable architecture for, and building distributed data pipelines and API for Automated Corpus Generation. These were meant to aid in efficiently consolidating available information in a structured database, renewed yearly.
+
+I learnt a lot working with my host Omansh Mathur, co-host Sahil Agrawal, co-interns,,,, and of course, the entire team (too long to list) - thank you for the tips (and foosball games!) that made the experience so great.
+
+The first week atwas jam-packed with things to see and do, from orientation to meeting the team and exploring the office. I'm glad to be joining Discover again, and look forward to working with my new team under Simpi Kumari (with!) on a user-facing product! Of course, I'm very grateful to have familiar faces right around the corner, especially when ramping up can get so overwhelming. (Also, thank youfor arranging such a thoughtful welcome gift!)",269,63 comments,0,image,"['https://media.licdn.com/dms/image/v2/D5622AQGBq3GO7R6b2A/feedshare-shrink_800/B56ZfVcp3fGoAg-/0/1751632765215?e=1755129600&v=beta&t=p7nzzWACq2eFbAGGxC-I2D1j4jCZY3fa8qSd4QT1pIE', 'https://media.licdn.com/dms/image/v2/D5622AQETPkkfc1moWw/feedshare-shrink_800/B56ZfVcp38HoAg-/0/1751632762512?e=1755129600&v=beta&t=ke14rPw58TAzRgRjLXpsSvARZDhDvKyTdwDZeQVVViY', 'https://media.licdn.com/dms/image/v2/D5622AQGNeGuBeV5CVg/feedshare-shrink_800/B56ZfVcp4aG0Ak-/0/1751632763289?e=1755129600&v=beta&t=HwZDB__KQyS-1_0M8t3U1WK_QoJEw_iWXg1u0BI9uYY', 'https://media.licdn.com/dms/image/v2/D5622AQGkRw96wyAPsg/feedshare-shrink_800/B56ZfVcp4WHoAk-/0/1751632762868?e=1755129600&v=beta&t=6lrbiNae4Mbd7imbQMxdPnHMvrZ0XanTX11k_i4imUA']",4,2025-07-06
+Paras Thakur,Cloud Engineer | AWS | GCP | Kubernetes | Terraform | GKE,"2w • Edited • 
+ ","Celebrating 3 Years at Google!
+
+It's officially been three years since I joined Google, and what a ride it's been! 🎉 Feeling incredibly grateful for the opportunities, the challenges, and the amazing people I've met along the way.
+
+From diving into complex projects to collaborating with brilliant minds, every day has been a chance to learn and grow. Here's to many more years of innovation and impact!","1,315",67 comments,0,image,"['https://media.licdn.com/dms/image/v2/D4D22AQF_ZYvgDlMFww/feedshare-shrink_800/B4DZesby9tGsAk-/0/1750944663433?e=1755129600&v=beta&t=dt54FZ-T693-8Z5RVsqQ0RBv5WvbwegzKSLzVER6S18', 'https://media.licdn.com/dms/image/v2/D4D22AQG8t0tpl2EdJQ/feedshare-shrink_800/B4DZesby9.H4Ao-/0/1750944662595?e=1755129600&v=beta&t=iAR7zPsmoRjfF0mi1zJMGE4Wqyi7AtKJcJp_B443_ZQ', 'https://media.licdn.com/dms/image/v2/D4D22AQHiC5fRjAT9iQ/feedshare-shrink_800/B4DZesby_OGUAk-/0/1750944662313?e=1755129600&v=beta&t=CsKjef9M-GsmG324obv4E1aiim4LTMakpElo5zb2aCI']",3,2025-06-29
+Isha Jain,Empowering Retail Investors | Talks About Stock Market & World Economy | Finance Trainer & Content Creator | Investor-Focused Strategies | Building Wealth Mindsets | Simplifying Finance | Ex S&P Global | Ex E&Y |,"7h • 
+ ","🧐𝐆𝐚𝐫𝐛𝐚𝐠𝐞 𝐁𝐚𝐠𝐬 𝐀𝐫𝐞 𝐚 𝐋𝐮𝐱𝐮𝐫𝐲. 𝐘𝐞𝐬, 𝐑𝐞𝐚𝐥𝐥𝐲.
+
+Who even thought of garbage bags? 🗑️ A plastic bag, just to throw trash?
+
+It was Harry Wasylyk, a Canadian, back in 1950.
+🏥 Designed for hospitals, later sold to households.
+
+And now? 𝐀 𝐠𝐥𝐨𝐛𝐚𝐥 “𝐞𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥.”
+
+🤔 Just think about it.
+
+❓ Would this idea have come from a 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐜𝐨𝐮𝐧𝐭𝐫𝐲? 𝐔𝐍𝐋𝐈𝐊𝐄𝐋𝐘.
+
+🥘 Where food is a struggle, no one’s inventing cleaner trash bins.
+
+✔️ Necessity might be the 𝐦𝐨𝐭𝐡𝐞𝐫 𝐨𝐟 𝐢𝐧𝐯𝐞𝐧𝐭𝐢𝐨𝐧, 𝐛𝐮𝐭 𝐜𝐨𝐦𝐟𝐨𝐫𝐭 𝐢𝐬 𝐭𝐡𝐞 𝐟𝐚𝐭𝐡𝐞𝐫 𝐨𝐟 𝐜𝐨𝐧𝐯𝐞𝐧𝐢𝐞𝐧𝐜𝐞
+AND
+Convenience is what the developed world tends to innovate for.
+
+🚮 Garbage bags show that 𝐦𝐚𝐫𝐤𝐞𝐭𝐬 𝐚𝐫𝐞𝐧’𝐭 𝐛𝐮𝐢𝐥𝐭 𝐨𝐧 𝐧𝐞𝐞𝐝, 𝐛𝐮𝐭 𝐇𝐀𝐁𝐈𝐓.
+
+🌍 We buy into better disposal, while the system keeps creating more waste than it can handle.
+
+✖️ Not against garbage bags, I use them too.
+
+❗ But wow... the things we 𝐍𝐎𝐑𝐌𝐀𝐋𝐈𝐙𝐄.
+
+💻 Followto see everyday things through an economic lens, where even trash bags tell a story about markets, money, and mindset.",24,1 comment,0,image,['https://media.licdn.com/dms/image/v2/D5622AQElDKQ0CnH6Ww/feedshare-shrink_800/B56ZfL3QiVG0Ak-/0/1751471951471?e=1755129600&v=beta&t=Bch9T6WNcjE-3lBCGxvprpuwtFmJYwXEjCbr2iHuVzc'],1,2025-07-13
+Kunal Kushwaha,Teaching millions how to code and helping businesses scale.,"3w • 
+ ",Have fun building!,139,2 comments,0,image,['https://media.licdn.com/dms/image/v2/D5622AQHj7V9GEXGk7g/feedshare-shrink_800/B56Zd2zRYNGoAg-/0/1750044843513?e=1755129600&v=beta&t=vS_thJ8AsC1Cse4YGXrXtoKH1FPmOoD8sz-Fx6PxizA'],1,2025-06-22
+Nathan Latka,CEO @ Founderpath (The AI Business Builder),"1w • 
+ ","Founders are experimenting like crazy with AI right now.
+
+But the best ideas are stuck in private chats and buried Slack threads.
+
+So I'm spinning up a WhatsApp chat for founders who are actively using AI in their day-to-day.
+
+No sales pitches. Just smart people sharing how they’re using AI to move faster, do more, and stay ahead.
+
+If you want in, drop a “yes please!” and I’ll DM you an invite.
+
+Excited to build this community! 🚀","2,112","6,652 comments",14 reposts,text,[],0,2025-07-06
+Ishan Sharma,Building MarkitUp | YouTuber with 1.5M+ subs | BITS Goa | Helping Brands Grow on YouTube,"3w • 
+ ","The West built e-commerce. 
+
+India just built the first AI-native shopping platform.
+
+No search. No wishlist. No decision fatigue.
+
+I avoid ordering clothes online.
+
+I'm afraid the clothes might not fit me and then I won’t have anything to wear at the last minute.
+
+Finally, this Indian startup is solving online shopping for all.
+
+AI creates unique style looks of you, you never even imagined, then lets you shop exactly what you see.
+
+It is built on Google’s latest image generation model - Imagen and also uses Gemini for intelligence and personalisation.
+
+Behind Glance AI is a smart combination of three powerful systems:
+
+1. A Commerce Intelligence Engine trained on 20 years of global shopping data
+
+2. A GenAI Visual Model using diffusion and geometry simulation for hyper-realistic try-ons
+
+3. A Transaction Model that maps these looks directly to shoppable products
+
+500+ brands already onboarded
+
+Accessible across smartphones, lock screens, and smart TVs
+
+It creates a great opportunity for businesses too.
+
+Small brands have the chance to be relevantly placed and get discovered easily.
+
+You can try the app with the link in the comments.","2,092",113 comments,9 reposts,image,['https://media.licdn.com/dms/image/v2/D5622AQGCWx-sRmLBTA/feedshare-shrink_800/B56ZeWxJ3eH8Ak-/0/1750581158766?e=1755129600&v=beta&t=_0bzaTJT11YjzQdtvA4fPJhUlKnALxGMzTun5xq1M4c'],1,2025-06-22
+Ayush Kumar,Incoming Quantitative Trading Intern @Optiver | Founder@IICPC|EP'27 Junior at Indian Institute of Technology Madras,"1w • 
+ ","𝐈𝐈𝐂𝐏𝐂'𝐬 𝐔𝐩𝐜𝐨𝐦𝐢𝐧𝐠 𝐐𝐮𝐚𝐧𝐭𝐟𝐞𝐬𝐭 𝐈𝐧𝐢𝐭𝐢𝐚𝐭𝐢𝐯𝐞 𝐛𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠 𝐬𝐨𝐨𝐧!!
+
+After months of careful planning and relentless execution, original framed problems, I am genuinely excited to announce IICPC Quantfest ‘25 – our second flagship initiative of the year.
+When we started this initiative, people often asked:
+“𝘞𝘩𝘺 𝘯𝘰𝘵 𝘫𝘶𝘴𝘵 𝘪𝘮𝘱𝘰𝘴𝘦 𝘳𝘦𝘨𝘪𝘴𝘵𝘳𝘢𝘵𝘪𝘰𝘯 𝘧𝘦𝘦 𝘵𝘰 𝘵𝘩𝘪𝘴 20,000+ 𝘗𝘢𝘳𝘵𝘪𝘤𝘪𝘱𝘢𝘯𝘵𝘴 𝘢𝘯𝘥 𝘦𝘢𝘳𝘯 𝘮𝘰𝘯𝘦𝘺? ”
+But from the very beginning, we knew:
+We are not here to chase numbers. We are here to build quality of India and Tech future.
+- We believe in creating real, meaningful opportunities.
+- We believe in connecting the right talent to the right teams.
+- And we strongly believe that even if just a few students land life-changing offers through Quantfest like the way students received in our previous event Codefest— we have succeeded.
+Quantfest is not just a contest. It is a gateway.
+
+""𝘈 𝘨𝘢𝘵𝘦𝘸𝘢𝘺 𝘵𝘰 𝘴𝘰𝘮𝘦 𝘰𝘧 𝘵𝘩𝘦 𝘵𝘰𝘱 𝘲𝘶𝘢𝘯𝘵 𝘢𝘯𝘥 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘧𝘪𝘳𝘮𝘴 𝘪𝘯𝘤𝘭𝘶𝘥𝘪𝘯𝘨
+,,,𝘢𝘯𝘥 𝘢 𝘴𝘶𝘳𝘱𝘳𝘪𝘴𝘦 𝘲𝘶𝘢𝘯𝘵 :)(𝘸𝘦'𝘭𝘭 𝘳𝘦𝘷𝘦𝘢𝘭 𝘴𝘰𝘰𝘯), 𝘸𝘩𝘰 𝘸𝘪𝘭𝘭 𝘣𝘦 𝘢𝘤𝘵𝘪𝘷𝘦𝘭𝘺 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘢𝘵 𝘺𝘰𝘶𝘳 𝘸𝘰𝘳𝘬, 𝘺𝘰𝘶𝘳 𝘱𝘦𝘳𝘧𝘰𝘳𝘮𝘢𝘯𝘤𝘦, 𝘢𝘯𝘥 𝘮𝘰𝘴𝘵 𝘪𝘮𝘱𝘰𝘳𝘵𝘢𝘯𝘵𝘭𝘺 — 𝘺𝘰𝘶𝘳 𝘱𝘰𝘵𝘦𝘯𝘵𝘪𝘢𝘭.""
+
+This is your chance to show what you can truly build when no one is watching.
+
+𝑸𝒖𝒂𝒏𝒕𝒇𝒆𝒔𝒕 '25 𝑺𝒄𝒉𝒆𝒅𝒖𝒍𝒆 :
+Registrations Open: Monday,7th of July onwards at
+Prelims Round: August 24th, 2025
+Regionals at 10 IITs: September 27th, 2025
+Finals in Chennai: October 31st - Nov 2nd,2025 in ITC Grand Chola and IIT M Research Park
+The stage is set. The doors are about to open.
+
+We are looking for students who are ready to take this seriously — students who are ready to push their limits and step into the next league.
+
+To all those preparing, building, and believing — Quantfest is built for you.
+
+As we build this platform, I want to sincerely thank the incredible partner firms and supporters who continue to trust this vision and the students who make this journey truly worthwhile.
+I’ll leave you with this:
+“𝘞𝘩𝘦𝘯 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘵𝘰 𝘴𝘶𝘤𝘤𝘦𝘦𝘥 𝘢𝘴 𝘣𝘢𝘥 𝘢𝘴 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘵𝘰 𝘣𝘳𝘦𝘢𝘵𝘩𝘦, 𝘵𝘩𝘦𝘯 𝘺𝘰𝘶’𝘭𝘭 𝘣𝘦 𝘴𝘶𝘤𝘤𝘦𝘴𝘴𝘧𝘶𝘭.”𝘛𝘩𝘪𝘴 𝘪𝘴 𝘺𝘰𝘶𝘳 𝘴𝘩𝘰𝘵. 𝘞𝘩𝘢𝘵 𝘸𝘪𝘭𝘭 𝘺𝘰𝘶 𝘤𝘩𝘰𝘰𝘴𝘦?
+
+Keep building,
+Ayush Kumar
+Founder,
+Intercollegiate Informatic and Competitive Programming Camp Private Limited",292,2 comments,6 reposts,image,['https://media.licdn.com/dms/image/v2/D5622AQFaxQ1eXo68lQ/feedshare-shrink_800/B56ZfaZVYXHUAg-/0/1751715766908?e=1755129600&v=beta&t=b37-dYONdHY8mI_DtLmD4mcMX8s49E4Mzct47Fw7A5U'],1,2025-07-06
+LinkedIn News India,"8,194,073 followers","1w • 
+ ","Indian airports are increasingly embracing tech and automation, Akshara Srivastava reports for Business Standard, citing a survey by Collinson Group.
+
+Due to automation and easier processes, 88% of Indian travellers have time to spend more on retail, which is higher than the global average of 60%. About 83% of travellers appreciate the pace at which Indian airports are adopting tech and AI.
+
+“With travel volumes continuing to rise, airports are looking to technology to help enhance the curb-to-gate journey whilst also increasing traveller spends. Automation is freeing up valuable time, lowering stress levels, and providing better information to the traveller in real time,” says, CEO at Collinson International.
+
+Use of tech is most impactful at fast-track security checks, digital boarding passes, and baggage drops, the survey shows.
+
+The automation sector in airports around the world is expected to increase to $85.12 billion by 2033, from $5.05 billion currently, adds the report.
+
+How will the use of tech and AI impact Indian airports? Vote in our poll and share your thoughts in the comments section.
+
+Source:
+-
+
+✍:
+📸: Getty Images
+
+
+
+Are you an industry expert looking to build your presence on LinkedIn? Fill this form to receive additional support, resources, and opportunities from LinkedIn's editorial team.",50,16 comments,2 reposts,text,[],0,2025-07-06
+Harshit Soni,Software Engineer @ AiLusion | 1000+ LeetCode 🏆| Turning Complexity into Simplicity,"4h • 
+ ","🧠💻 From “TLE” to “Accepted” — Now with Swag! 🎉
+
+What started as “let me solve just one problem…” turned into daily challenges, weekend contests, and a whole journey full of logic, bugs, and breakthroughs! 🧩💻
+
+And today, I’m super excited to share that I’ve received some official LeetCode swag –
+👕 T-shirt (perfect for coding marathons)
+🗝️ Keychain (unlocks motivation daily)
+☕ Coaster (because even coffee deserves clean code)
+
+This journey has been filled with:
+📉 TLEs that haunted me
+🧠 Logic rewrites at odd hours
+🔥 And that unbeatable feeling of seeing “Accepted”
+
+But I didn’t do it alone.
+
+Big thanks to everyone who helped me along the way —
+👥 Friends who discussed problems
+🧑‍💻 Mentors who guided me
+🤝 And the amazing LeetCode community that kept me motivated and accountable
+
+It’s more than just swag — it’s a reminder that consistency, curiosity, and collaboration make all the difference.
+
+To everyone still grinding — your “Accepted” moment is on its way 🚀
+Let’s keep pushing boundaries, one line of code at a time!",17,1 comment,0,image,"['https://media.licdn.com/dms/image/v2/D5622AQHgT554Ui5vZA/feedshare-shrink_800/B56ZgCilXOHUAg-/0/1752389285511?e=1755129600&v=beta&t=jPbwkRTD4PKuTdZAwebk_asPdVWDYDVSKKlF5ZKxHMM', 'https://media.licdn.com/dms/image/v2/D5622AQHp8421RBmYaQ/feedshare-shrink_800/B56ZgCilXUHUAg-/0/1752389292938?e=1755129600&v=beta&t=_ehTeFgr7aZR4iAZ4TtuszKdqOZTagfryZu7Z1VjnaQ', 'https://media.licdn.com/dms/image/v2/D5622AQFYeSUYuH5fNw/feedshare-shrink_800/B56ZgCilXWHsAg-/0/1752389293368?e=1755129600&v=beta&t=CCvMuc5W3lYVmVppaRex1hV-6BpixyAfOBeKLHiUVhA', 'https://media.licdn.com/dms/image/v2/D5622AQH_V2Dx7b3_BA/feedshare-shrink_800/B56ZgCilYDHsAg-/0/1752389292437?e=1755129600&v=beta&t=IvaZ8nRJ0RDDJjbXQUKZzITNGMf1y5L6ixC0UxNrOTM']",4,2025-07-13
+Sripathi Teja,Automation Tester at CGI,"4d • 
+ ","I got a 150% hike while switching from Wipro 🚀
+Avoid these 4 interview mistakes to get the same:
+
+🔴 𝐌𝐢𝐬𝐭𝐚𝐤𝐞 #1: 𝐍𝐨𝐭 𝐚𝐬𝐤𝐢𝐧𝐠 𝐜𝐥𝐚𝐫𝐢𝐟𝐲𝐢𝐧𝐠 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬
+Always ask for more context if a question isn’t clear. This shows you’re thorough and care about getting things right.
+🔴 𝐌𝐢𝐬𝐭𝐚𝐤𝐞 #2: 𝐖𝐞𝐚𝐤 𝐛𝐮𝐠 𝐞𝐱𝐩𝐥𝐚𝐧𝐚𝐭𝐢𝐨𝐧𝐬
+Focus on the process: What tools did you use? How did you pinpoint the problem? Break it down step-by-step.
+🔴 𝐌𝐢𝐬𝐭𝐚𝐤𝐞 #3: 𝐅𝐨𝐜𝐮𝐬𝐢𝐧𝐠 𝐨𝐧𝐥𝐲 𝐨𝐧 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧
+Balance your expertise in both manual and automated testing. Show you understand when to use each approach.
+🔴 𝐌𝐢𝐬𝐭𝐚𝐤𝐞 #4: 𝐒𝐤𝐢𝐩𝐩𝐢𝐧𝐠 𝐭𝐞𝐬𝐭 𝐬𝐭𝐫𝐚𝐭𝐞𝐠𝐲 𝐝𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧
+Discuss your strategy: Which tests would you run first? What’s the risk assessment?
+
+As someone who’s been through the rejection loop before and made these mistakes, most of these can be tackled with mock interviews. ✅
+
+Today, you can easily connect 1:1 with top QA Engineers and take mock interviews to practice technical and situational questions thoroughly.
+You can connect with them for free here:
+
+These top QA engineers will not only help with mock interviews but end to end interview preparation. They will help build your resume, share personalized resources and even help with referrals. So try it out! 💫
+
+PS: Which of these mistakes have you made before? Drop it in the comments 👇","1,582",92 comments,41 reposts,image,['https://media.licdn.com/dms/image/v2/D5622AQGV5poCWdYY4w/feedshare-shrink_800/B56ZfsvBbHGUAo-/0/1752023442193?e=1755129600&v=beta&t=VSaj9015w_s9BSrdYjwpWks851e9ZdrkWDLfIDfEebI'],1,2025-07-09
+Kunika Malhotra,Software Development Engineer II @Amazon | Microsoft | Walmart | 203K LinkedIn | Mentor | Influencer Marketing | DM for Collab🤝,"6d • 
+ ","Most people stop at one rejection.
+
+I got 30 — and still kept going.
+
+And after every rejection, I saw people around me lose hope.
+They stopped trying.
+
+They settled for their current job, convincing themselves maybe they’re not good enough. But I didn’t. I kept going, month after month.
+
+And 2 major things helped me turn that line into offer letters from top product companies:
+
+✅ I focused on the fundamentals — DSA, system design, SQL, CS basics
+Tech interviews test your core understanding, not just surface-level knowledge.
+
+Most rejections don’t happen due to a lack of experience, but due to a weak grip on the basics. Once I fixed that, I started thinking and solving better.
+
+✅ I took mock interviews seriously and worked on my communication
+I used to stay silent or jump straight to code. But in real interviews, your ability to explain your thoughts clearly matters as much as the solution itself.
+
+Mock interviews showed me where I was going wrong and gave me a safe space to fix it.
+
+If you’re an SDE, SWE, or switching roles, don’t let a rejection mail define your future.
+
+And to make your tech interview prep better, consider using structured resources at.
+
+Get the 1:1 personalized guidance-
+
+They have helped 2150+ folks get the right guidance, hands-on experience via real-world projects, and mock sessions to build confidence from scratch.
+
+Keep preparing, keep showing up.","2,016",174 comments,3 reposts,image,['https://media.licdn.com/dms/image/v2/D5622AQH4Z5ihcEbBHw/feedshare-shrink_2048_1536/B56ZfjHG1tHoAo-/0/1751861983025?e=1755129600&v=beta&t=tYZmamWA34QvW7nBHxIa6F8jFBDubCnqs5tGSrEarl4'],1,2025-07-07
+DIT UNIVERSITY,"42,451 followers","5d • 
+ ","Breathe in.
+That’s not just fresh air — that’s clarity. That’s stillness. That’s space to think.
+DIT Dehradun is more than a campus — it’s where your ideas get room to grow.
+Walk the greens. Feel the calm. Build what’s next.
+Applications open! Apply now:",449,8 comments,10 reposts,video,['blob:https://www.linkedin.com/327f705d-5fd9-4af7-9524-c9a5715a5729'],1,2025-07-08
+TLE Eliminators,"31,290 followers","1w • 
+ ","🔹 𝐖𝐞’𝐫𝐞 𝐇𝐢𝐫𝐢𝐧𝐠: 𝐃𝐨𝐮𝐛𝐭 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐌𝐞𝐧𝐭𝐨𝐫𝐬 (1800+ 𝐑𝐚𝐭𝐞𝐝 | 𝐏𝐚𝐫𝐭-𝐓𝐢𝐦𝐞 | 𝐑𝐞𝐦𝐨𝐭𝐞)
+
+TLE Eliminators is looking for top-tier Competitive Programmers (Codeforces 1800+ only) to join us as 𝐃𝐨𝐮𝐛𝐭 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐌𝐞𝐧𝐭𝐨𝐫𝐬.
+
+If you're highly rated and passionate about helping others grow in CP, this is your chance to mentor and earn — while improving your own skills.
+
+🛠️ 𝐑𝐨𝐥𝐞: 𝐃𝐨𝐮𝐛𝐭 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐌𝐞𝐧𝐭𝐨𝐫
+- Remote | ⏳ 18 hrs/week (flexible) | 📅 Min. 3 months
+- Solve CP doubts on Discord (text + voice)
+
+📌 𝐄𝐥𝐢𝐠𝐢𝐛𝐢𝐥𝐢𝐭𝐲:
+- Codeforces Rating: 1800+ (mandatory)
+- Active in the past 1 year
+- Strong English communication
+- Dedicated and consistent availability
+
+💰 𝐒𝐭𝐢𝐩𝐞𝐧𝐝: ₹7,000 – ₹20,000/month
+
+🎁 𝐏𝐞𝐫𝐤𝐬:
+- Free access to TLE Courses
+- Certificate of Experience + LinkedIn Recognition
+- Improve your communication, mentoring, and leadership skills
+- Connect with a high-quality CP mentor community
+
+𝐂𝐡𝐞𝐜𝐤𝐨𝐮𝐭 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐋𝐢𝐧𝐤 𝐢𝐧 𝐜𝐚𝐩𝐭𝐢𝐨𝐧!",32,3 comments,0,text,[],0,2025-07-06
+Phil Neil,Pivoted 0→$70M in 8 Months & Exited | Why? I Discovered the Root Cause of Startup Failure | Now Leading a Movement to Transform Entrepreneurship | Tech Investor & Growth Strategist | CEO @ Courage Compass Company,"1d • 
+ ","Your business isn’t breaking. It’s becoming.
+We build layers to feel in control—plans, processes, titles, strategies that once felt safe but quietly stopped serving us.
+
+And then chaos comes: a market crashes, a launch flops, a partnership collapses.
+It feels like everything is on fire.
+
+Most people rush to put the fire out, to patch things back together, to get back to “normal” as fast as possible.
+
+But what if that’s the mistake?
+
+Chaos often breaks what needed to break. It burns away illusions we didn’t know were holding us back. It clears space for something real to emerge.
+
+Sometimes, you need to let the world burn for a while.
+
+Don’t rush to rebuild. Don’t numb it away. Don’t try to force things back into the shape they were.
+Watch. Listen. Let the fire teach you.
+
+Because chaos doesn’t automatically transform you. But if you let it, it will show you what truly matters, what you’ve outgrown, and what’s possible next.
+
+What feels like breaking is often your business becoming what it needs to be.
+
+🔥 Let the world burn for a while. Let yourself see what emerges from the ashes.
+—
+🧭 I share these insights so founders don’t have to navigate the journey alone. If this helped you, follow me for more, and consider sharing this post with a founder who needs it today.
+
+
+
+📽️ Video Credit @Sketch_dailydose. Artiste @Yifan Zhang","1,810",129 comments,48 reposts,video,['blob:https://www.linkedin.com/29a33bb1-4cae-4641-ac47-f5d4e32a027c'],1,2025-07-12
+Kunal Kushwaha,Teaching millions how to code and helping businesses scale.,"3d • 
+ ","People do not decide their futures, they decide their habits and their habits decide their futures.
+
+I’ve been thinking about how it’s rarely one big decision that shapes your life, it’s the small things you do every day.","1,351",47 comments,12 reposts,text,[],0,2025-07-10
