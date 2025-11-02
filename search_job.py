@@ -43,6 +43,8 @@ for t in text:
 time.sleep(2)
 search_bar.send_keys(Keys.RETURN)
 
+time.sleep(10)
+
 
 main_job_df = []
 
